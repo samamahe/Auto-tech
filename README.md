@@ -2,11 +2,11 @@
 # This application show you the best mechanic services at your surroundings with estimated cost #
 
   ###  Team Members are ###
-     #### 1.Alekya valisetty - 1892744 ####
-     #### 2.Vidya Sagar   -  1895253  ####
-     #### 3.Akhileshwar reddy - 1895748 ####
-     #### 4.Anil              -  1898475 ####
-     #### 5.Mahesh reddy    - 1898496   ####
+      1.Alekya valisetty - 1892744 
+      2.Vidya Sagar   -  1895253  
+      3.Akhileshwar reddy - 1895748 
+      4.Anil              -  1898475 
+      5.Mahesh reddy    - 1898496   
  
  
  ###### Description ######
