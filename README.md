@@ -21,5 +21,4 @@ This application will get you best suggestions . it will work with GPS(Global Po
 ## One more page of Application ##
 ![location](https://user-images.githubusercontent.com/48560720/73890668-808c3300-4840-11ea-8611-3d9157f435aa.PNG)
 
-## Random pic ##
-![IMG_1169](https://user-images.githubusercontent.com/49277794/81586749-078f0100-9384-11ea-8cec-cb6f61ed383f.jpg)
+
